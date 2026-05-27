@@ -1,0 +1,29 @@
+.main{
+    background-color: rgb(242, 206, 206);
+    border:2px solid brown;
+    border-radius: 15px;
+    box-shadow: 3px 3px rgb(204, 55, 55);
+}
+.main h1{
+    color: brown;
+}
+.main li{
+    display:inline-flex;
+    flex-direction: column;
+    margin: 15px;
+    color: brown;
+}
+.main li:hover{
+    color: white;
+    }
+.info{
+    margin-top: 50px;
+    margin-left: 60px;
+    margin-right: 60px;
+    background-color: rgb(250, 223, 223);
+    border: 2px solid brown;
+    border-radius: 15px;
+}
+.info h1{
+    color: rgb(171, 11, 11);
+}
